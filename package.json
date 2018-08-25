@@ -1,0 +1,25 @@
+{
+  "name": "ht6-dont-buy-that-stock",
+  "version": "1.0.0",
+  "description": "Stock trading on twitter-fuelled steroids",
+  "main": "index.js",
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "koa": "^2.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkooeun/ht6-dont-buy-that-stock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkooeun/ht6-dont-buy-that-stock/issues"
+  },
+  "homepage": "https://github.com/danielkooeun/ht6-dont-buy-that-stock#readme"
+}
